@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Jayme Deffenbaugh]]></title>
   <link href="http://jdeff.github.com/feed" rel="self"/>
   <link href="http://jdeff.github.com/"/>
-  <updated>2012-09-01T15:44:32-07:00</updated>
+  <updated>2012-09-01T21:40:03-07:00</updated>
   <id>http://jdeff.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jayme Deffenbaugh]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pardon the mess]]></title>
+    <link href="http://jdeff.github.com/blog/2012/09/01/pardon-the-mess/"/>
+    <updated>2012-09-01T21:29:00-07:00</updated>
+    <id>http://jdeff.github.com/blog/2012/09/01/pardon-the-mess</id>
+    <content type="html"><![CDATA[<p>I&#8217;m working hard on getting everything up and running.</p>
+]]></content>
+  </entry>
   
 </feed>
